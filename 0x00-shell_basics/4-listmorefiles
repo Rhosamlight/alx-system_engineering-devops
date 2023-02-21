@@ -1,3 +1,2 @@
-#!binbash
+#!bin/bash
 ls -al
-
