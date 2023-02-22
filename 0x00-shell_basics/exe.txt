@@ -1,0 +1,3 @@
+#!/bin/bash
+echo $1 mkdir /newtmp $2 touch new-file /newtmp
+
